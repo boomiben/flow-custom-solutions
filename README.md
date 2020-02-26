@@ -7,4 +7,15 @@
   - Css selector for .detect-change.changed means that inputs that have the .detect-change class, **and** have a changed state will be highlighted
   - credit: Boomi Flow PSO development (MB)
 
+## macros
+
+- coming
+
+## packages
+
+- coming
+
+## docs/notes
+
+- coming
 
